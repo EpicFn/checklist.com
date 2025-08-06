@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@layer components {
+  .fc .fc-toolbar-title {
+    @apply text-gray-500;
+  }
+
+
+  /* FullCalendar 날짜 및 요일 글자 색상 변경 */
+  .fc .fc-daygrid-day-number,
+  .fc .fc-col-header-cell-cushion {
+    @apply text-gray-600;
+  }
+  
+  /* 마우스 오버 시 일정 스타일 변경 */
+  .fc .fc-event:hover {
+    @apply !bg-indigo-900;
+    @apply !text-gray-600;
+  }
+
+  /* --- 모든 일정의 글씨 색상 --- */
+  .fc .fc-timegrid {
+    @apply !text-gray-600;
+  }
+}
