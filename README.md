@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-squre&logo=springboot&logoColor==white"/> <img src="https://img.shields.io/badge/springSecurity-6DB33F?style=flat-squre&logo=springsecurity&logoColor==white"/> <img src="https://img.shields.io/badge/junit5-25A162?style=flat-squre&logo=junit5&logoColor==white"/> 
 
 <img src="https://img.shields.io/badge/h2-09476B?style=flat-squre&logo=h2database&logoColor==white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-squre&logo=mysql&logoColor==white"/> ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 <br/>
 
 # 📄 주요 기능
@@ -49,7 +50,6 @@
 
 <br/>
 
----
 # 데모
 https://github.com/user-attachments/assets/95410bfd-d3fa-4002-995e-ae5a684685d6
 
