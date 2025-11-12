@@ -53,5 +53,21 @@
 # 시연
 https://github.com/user-attachments/assets/95410bfd-d3fa-4002-995e-ae5a684685d6
 
+<br />
 
+# 아키텍처
+### User Scenario
+[유저 시나리오 - 준비물.com.pdf](https://github.com/user-attachments/files/23498602/-.com.pdf)
+
+### Task Flow
+<img width="1639" height="1441" alt="Task Flow - 준비물 com" src="https://github.com/user-attachments/assets/a2ad8414-6a78-48de-a359-9938c7322176" />
+
+### Wireframe
+[와이어 프레임 - 준비물.com.pdf](https://github.com/user-attachments/files/23498633/-.com.pdf)
+
+### Entity-Relation Diagram
+<img width="1810" height="902" alt="ERD - 준비물 com" src="https://github.com/user-attachments/assets/2f34ecd7-daf3-4436-87ea-c4e3fc34584d" />
+
+### 시스템 구성도
+![시스템 구성도 - 준비물 com](https://github.com/user-attachments/assets/573f3f85-1857-4643-82a7-cc1d7335662a)
 
